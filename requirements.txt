@@ -1,5 +1,5 @@
-gradio
-lightfm
+streamlit
 pandas
 numpy
 scikit-learn
+lightfm

@@ -1,3 +1,0 @@
-# Ignore dataset and checkpoint files
-*.csv
-*.ipynb_checkpoints/
